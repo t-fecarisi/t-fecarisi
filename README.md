@@ -1,9 +1,31 @@
 
-<h1 align="center">
-Analytics Engineer
+<h1 align="left">
+Thales Fecarisi
 </h1>
+<a>
+  Who am I
+</a>
 
-Quite my favorite 🔨
+```mermaid
+%%{init: {'theme' : 'dark'}}%%
+stateDiagram-v2
+accTitle: Who am I ?
+   accDescr: Just passing by
+
+   classDef NeverStop fill:#1a0013,color:#F0F6FC,font-weight:bold,stroke-width:2px,stroke:#12261e
+
+    Just_a_regular_dude --> learning_new_stuff
+    learning_new_stuff --> Just_a_regular_dude
+    learning_new_stuff --> Never_giving_up
+    Never_giving_up --> learning_new_stuff
+
+
+   class learning_new_stuff NeverStop
+```
+
+
+
+🔨 Quite my favorite 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/julia-9558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
@@ -21,3 +43,16 @@ Quite my favorite 🔨
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+🚧 Work in progress
+
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+🤔 Backlog 
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+
+
+
