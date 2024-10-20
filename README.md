@@ -3,6 +3,8 @@
 Analytics Engineer
 </h1>
 
+Quite my favorite 🔨
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/julia-9558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
