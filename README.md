@@ -27,13 +27,12 @@ accTitle: Who am I ?
 
 🔨 Quite my favorite 
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Mermaid](https://img.shields.io/badge/mermaid-f14158.svg?style=for-the-badge&logo=mermaid&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/julia-9558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Mermaid](https://img.shields.io/badge/mermaid-f14158.svg?style=for-the-badge&logo=mermaid&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LookerStudio](https://img.shields.io/badge/looker-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/googlebigquery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
