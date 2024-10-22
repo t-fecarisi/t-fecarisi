@@ -2,9 +2,6 @@
 <h1 align="left">
 Thales Fecarisi
 </h1>
-<a>
-  Who am I
-</a>
 
 ```mermaid
 %%{init: {'theme' : 'dark'}}%%
