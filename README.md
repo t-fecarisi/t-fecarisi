@@ -3,25 +3,6 @@
 Thales Fecarisi
 </h1>
 
-```mermaid
-%%{init: {'theme' : 'dark'}}%%
-stateDiagram-v2
-accTitle: Who am I ?
-   accDescr: Just passing by
-
-   classDef NeverStop fill:#1a0013,color:#F0F6FC,font-weight:bold,stroke-width:2px,stroke:#12261e
-
-    Just_a_regular_dude --> learning_new_stuff
-    learning_new_stuff --> Just_a_regular_dude
-    learning_new_stuff --> Never_giving_up
-    Never_giving_up --> learning_new_stuff
-
-
-   class learning_new_stuff NeverStop
-```
-
-
-
 🔨 Quite my favorite 
 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
