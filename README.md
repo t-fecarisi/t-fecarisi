@@ -24,16 +24,7 @@ Thales Fecarisi
 ![Obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-🚧 Work in progress
 
-![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
-
-🤔 Backlog 
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 
 
